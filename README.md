@@ -4,9 +4,9 @@
 
 ## My Job/Role
 
-## How I work
+## How I Work
 
-## How I can help
+## How I Can Help
 
 ## My Principles
 
