@@ -1,23 +1,37 @@
-# README for Josh Benson
+# How to Josh Benson
 
-## About this document
+## 👋 Introduction
 
-We have user guides for every machine, but why don't we have them for people? We are ridiculously complicated beings, so here is a manual for me describing:
+Who you are, your role, location, and what you do at RVU? Your experience up to this point. Feel free to add pronouns if you want to
 
-* Who I am
-* What I do
-* How I work
-* How to get the best out of me
-* What I'm like
+## 💌 My Availability and Comms Preferences
 
-## My Job/Role
+Days/Hours, if you’re part time or have any flexible working arrangements. Also when are the best times to reach out to you? Are you better f2f, or is slack ok? Do you wear headphones when you don’t want to be disturbed? Are you Direct/indirect? Long/short?
 
-## How I Work
+## 😁 What Makes Me Happy?
 
-## How I Can Help
+How can people make your life easier? 
 
-## My Principles
+## 😡 What Makes Me Grumpy?
 
-## Pet Peeves
+What aren’t you a fan of that people do? e.g talking at you without any context
 
-## Personal Quirks
+## 💪 My Strengths
+
+What skills do you have that people love and you love to help people with? How can you help people?
+
+## 🌱 My Opportunities for Growth
+
+What are you working on to improve, and how can someone working with you help? What are your goals for the next year?
+
+## 🙃 Extra Quirks
+
+What do you do / have that might throw someone? E.g resting concentration face, you do a little dance when excited, or you aren’t useful until you’ve had your morning coffee
+
+## 📣 Feedback
+
+How do you give and receive feedback? What format helps you thrive?
+
+## 🧨 My Favourite GIF / Meme
+
+Copy and paste
