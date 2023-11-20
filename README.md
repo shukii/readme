@@ -1,4 +1,4 @@
-# How to Josh Benson
+# README of Josh Benson
 
 ## 👋 Introduction
 
