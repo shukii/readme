@@ -6,7 +6,7 @@
 
 ### 👋 Introduction
 
-Hi, I’m Josh, a Senior Software Engineer, based in London. I’ve been at RVU for over 2 years, working in Uswitch Broadband, and now Money. Before RVU, I worked mainly in consulting, building new products and prototypes for clients across a variety of industries.
+Hi, I’m Josh, a Senior Software Engineer, based in London. I’ve been at RVU for over 2 years, working in [Uswitch Broadband](https://www.uswitch.com/broadband/), and now [Money.co.uk](https://www.money.co.uk). Before RVU, I worked mainly in consulting, building new products and prototypes for clients across a variety of industries.
 
 I’m a dad to two energetic boys, so to keep my fitness up, I love gymming, cycling, plus my weekly Parkrun.
 
