@@ -2,7 +2,7 @@ Personal README
 
 How to Josh Benson
 
-![image](https://media.licdn.com/dms/image/D4E03AQG4xYLGXC5FKQ/profile-displayphoto-shrink_800_800/0/1687880144411?e=1711584000&v=beta&t=AGFcgCVfmODqSF03Q8oMpTI8UarKI847cqsiho-GHc8)
+<img src="https://media.licdn.com/dms/image/D4E03AQG4xYLGXC5FKQ/profile-displayphoto-shrink_800_800/0/1687880144411?e=1711584000&v=beta&t=AGFcgCVfmODqSF03Q8oMpTI8UarKI847cqsiho-GHc8" alt="Josh Benson" width="250"/>
 
 👋 Introduction
 
