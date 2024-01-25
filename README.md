@@ -1,10 +1,10 @@
-Personal README
+# Personal README
 
-How to Josh Benson
+## How to Josh Benson
 
 <img src="https://media.licdn.com/dms/image/D4E03AQG4xYLGXC5FKQ/profile-displayphoto-shrink_800_800/0/1687880144411?e=1711584000&v=beta&t=AGFcgCVfmODqSF03Q8oMpTI8UarKI847cqsiho-GHc8" alt="Josh Benson" width="250"/>
 
-👋 Introduction
+### 👋 Introduction
 
 Hi, I’m Josh, a Senior Software Engineer, based in London. I’ve been at RVU for over 2 years, working in Uswitch Broadband, and now Money. Before RVU, I worked mainly in consulting, building new products and prototypes for clients across a variety of industries.
 
