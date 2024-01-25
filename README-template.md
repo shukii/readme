@@ -1,4 +1,4 @@
-# README of Josh Benson
+# README of {your name here}
 
 ## 👋 Introduction
 
