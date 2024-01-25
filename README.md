@@ -54,5 +54,5 @@ If you need me, Slack is fine, if you really need me then come and speak to me o
 
 ### 🧨 My Favourite GIF / Meme
 
-<img src="[https://media.licdn.com/dms/image/D4E03AQG4xYLGXC5FKQ/profile-displayphoto-shrink_800_800/0/1687880144411?e=1711584000&v=beta&t=AGFcgCVfmODqSF03Q8oMpTI8UarKI847cqsiho-GHc8](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theverge.com%2F2016%2F5%2F5%2F11592622%2Fthis-is-fine-meme-comic&psig=AOvVaw1D_YzBHJKE8Jvh4OodwC_9&ust=1706283966925000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCU3Z_x-IMDFQAAAAAdAAAAABAS)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theverge.com%2F2016%2F5%2F5%2F11592622%2Fthis-is-fine-meme-comic&psig=AOvVaw1D_YzBHJKE8Jvh4OodwC_9&ust=1706283966925000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCU3Z_x-IMDFQAAAAAdAAAAABAS" alt="This is fine" height="250"/>
+<img src="https://duet-cdn.vox-cdn.com/thumbor/0x0:900x500/2048x1365/filters:focal(450x250:451x251):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/6438793/this-is-fine.jpg" alt="This is fine" height="250"/>
 
