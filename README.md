@@ -54,5 +54,5 @@ If you need me, Slack is fine, if you really need me then come and speak to me o
 
 ### 🧨 My Favourite GIF / Meme
 
-<img src="https://duet-cdn.vox-cdn.com/thumbor/0x0:900x500/2048x1365/filters:focal(450x250:451x251):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/6438793/this-is-fine.jpg" alt="This is fine" height="250"/>
+<img src="https://static01.nyt.com/images/2016/08/05/us/05onfire1_xp/05onfire1_xp-superJumbo-v2.jpg?quality=75&auto=webp" alt="This is fine" height="250"/>
 
