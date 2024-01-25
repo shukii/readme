@@ -14,7 +14,7 @@ I’m a dad to two energetic boys, so to keep my fitness up, I love gymming, cyc
 
 Being a busy ‘Dadveloper’, my timings are quite tight. On office days (Wednesday / Thursday), I’m normally in a mad rush to get my kids to school on time, followed by my commute, then I need to leave early at 4ish to pick them up. I’m most creative in the mornings, so focus time tends to be around then.
 
-If you need me, Slack is fine, if you really need me then come and speak to me or give me a ring. I tend to be quite direct in my written communication, so please don’t take this as me being short or impatient with you I am keen to help, but also trying to get to the point to save time.
+If you need me, Slack or WhatsApp is fine, if you really need me then come and speak to me or give me a ring. I tend to be quite direct in my written communication, so please don’t take this as me being short or impatient with you. I am keen to help, but also trying to get to the point to save time.
 
 ### 😁 What Makes Me Happy?
 
