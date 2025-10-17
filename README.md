@@ -6,13 +6,13 @@
 
 ### 👋 Introduction
 
-Hi, I’m Josh, a Senior Software Engineer, based in London. I’ve been at RVU for over 2 years, working in [Uswitch Broadband](https://www.uswitch.com/broadband/), and now [Money.co.uk](https://www.money.co.uk). Before RVU, I worked mainly in consulting, building new products and prototypes for clients across a variety of industries.
+Hi, I’m Josh, a Lead Software Engineer, based in London. I’ve been at RVU for over 4 years, working at [Money.co.uk](https://www.money.co.uk) and previously [Uswitch Broadband](https://www.uswitch.com/broadband/). Before RVU, I worked mainly in consulting, building new products and prototypes for clients across a variety of industries.
 
 I’m a dad to two energetic boys, so to keep my fitness up, I love gymming, cycling, plus my weekly Parkrun.
 
 ### 💌 My Availability and Comms Preferences
 
-Being a busy ‘Dadveloper’, my timings are quite tight. On office days (Wednesday / Thursday), I’m normally in a mad rush to get my kids to school on time, followed by my commute, then I need to leave early at 4ish to pick them up. I’m most creative in the mornings, so focus time tends to be around then.
+Being a busy ‘Dadveloper’, my timings are quite tight. On office days, I’m normally in a mad rush to get my kids to school on time, followed by my commute, then I need to leave early at 4ish to pick them up. I’m most creative in the mornings, so focus time tends to be around then.
 
 If you need me, Slack or WhatsApp is fine, if you really need me then come and speak to me or give me a ring. I tend to be quite direct in my written communication, so please don’t take this as me being short or impatient with you. I am keen to help, but also trying to get to the point to save time.
 
@@ -26,6 +26,7 @@ If you need me, Slack or WhatsApp is fine, if you really need me then come and s
 
 * Context switching uses a lot of my energy. So please help me out by providing context for me
 * Having to attend meetings that might be better off as an email / Slack, or that I probably won’t add much value to. RVU tends to be pretty good at meetings though
+* Direct feedback on my behaviours and actions in public channels or meetings tends to put me on the defensive
 
 ### 💪 My Strengths
 
@@ -37,7 +38,7 @@ If you need me, Slack or WhatsApp is fine, if you really need me then come and s
 ### 🌱 My Opportunities for Growth
 
 * Working on my communication style to be a bit less direct and more structured, at the correct amount of detail for the conversation
-* Very keen to start leading, and getting the most out of the people that I lead
+* Very keen to continue my leadership journey, and getting the most out of the people that I lead, being a multiplier, and removing blockers
 
 ### 🙃 Extra Quirks
 
