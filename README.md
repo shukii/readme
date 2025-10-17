@@ -37,7 +37,7 @@ If you need me, Slack or WhatsApp is fine, if you really need me then come and s
 
 ### 🌱 My Opportunities for Growth
 
-* Working on my communication style to be a bit less direct and more structured, at the correct amount of detail for the conversation
+* Working on my communication style to be a bit less direct and more structured, at the correct amount of detail for the conversation. Bringing people on the journey more.
 * Very keen to continue my leadership journey, and getting the most out of the people that I lead, being a multiplier, and removing blockers
 
 ### 🙃 Extra Quirks
