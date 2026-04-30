@@ -1,4 +1,4 @@
-# README of {{your name here}}
+# {{your name here}} README
 
 ## 👋 Introduction
 
