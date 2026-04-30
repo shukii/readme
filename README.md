@@ -6,13 +6,13 @@ This is a **personal user manual** — a guide to help people understand how to 
 
 ### Why Have a Personal README?
 
-Working with people is complex. We all have different communication styles, working preferences, and things that energize or frustrate us. A personal README helps:
+Working with people is complex. We all have different communication styles, working preferences, and things that energise or frustrate us. A personal README helps:
 
 - **Reduce friction** — Teammates learn your preferences upfront rather than through trial and error
 - **Build trust faster** — Transparency about your quirks and growth areas shows self-awareness and vulnerability
 - **Save time** — Clearer communication expectations mean fewer misunderstandings
 - **Improve collaboration** — When people know what makes you tick, they can work with you more effectively
-- **Normalize feedback** — Stating how you prefer feedback makes it easier for others to give it
+- **Normalise feedback** — Stating how you prefer feedback makes it easier for others to give it
 
 ### How This Helps Teams Work Better Together
 
